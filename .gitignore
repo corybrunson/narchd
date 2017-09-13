@@ -1,0 +1,15 @@
+# R history
+*.Rhistory
+*/.Rhistory
+*/*/.Rhistory
+
+# directories
+calc/*
+ctx/*
+doc/*
+fig/*
+lit/*
+misc/*
+scr/citations/*
+tab/*
+
